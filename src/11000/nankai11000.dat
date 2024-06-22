@@ -22,9 +22,9 @@ intro_month=8
 runningcost=125
 cost=13600000
 gear=135
-constraint[next][0]=mk_nankai11000_Mc11301
+constraint[next][0]=mk_nankai11000_M11301
 ---
-name=mk_nankai11000_Mc11301
+name=mk_nankai11000_M11301
 obj=vehicle
 length=12
 emptyimage[s]=nankai11000.2.0
@@ -49,9 +49,9 @@ runningcost=124
 cost=13200000
 gear=135
 constraint[prev][0]=mk_nankai11000_Mc11001
-constraint[next][0]=mk_nankai11000_Mc11101
+constraint[next][0]=mk_nankai11000_M11101
 ---
-name=mk_nankai11000_Mc11101
+name=mk_nankai11000_M11101
 obj=vehicle
 length=12
 emptyimage[s]=nankai11000.3.0
@@ -75,7 +75,7 @@ intro_month=8
 runningcost=124
 cost=13000000
 gear=135
-constraint[prev][0]=mk_nankai11000_Mc11301
+constraint[prev][0]=mk_nankai11000_M11301
 constraint[next][0]=mk_nankai11000_Mc11201
 ---
 name=mk_nankai11000_Mc11201
@@ -102,7 +102,7 @@ intro_month=8
 runningcost=125
 cost=13600000
 gear=135
-constraint[prev][0]=mk_nankai11000_Mc11101
+constraint[prev][0]=mk_nankai11000_M11101
 ---
 name=mk_nankai11000_Mc11001_post
 obj=vehicle
@@ -128,9 +128,9 @@ intro_month=8
 runningcost=125
 cost=13600000
 gear=135
-constraint[next][0]=mk_nankai11000_Mc11301_post
+constraint[next][0]=mk_nankai11000_M11301_post
 ---
-name=mk_nankai11000_Mc11301_post
+name=mk_nankai11000_M11301_post
 obj=vehicle
 length=12
 emptyimage[s]=nankai11000.2.0
@@ -155,9 +155,9 @@ runningcost=124
 cost=13200000
 gear=135
 constraint[prev][0]=mk_nankai11000_Mc11001_post
-constraint[next][0]=mk_nankai11000_Mc11101_post
+constraint[next][0]=mk_nankai11000_M11101_post
 ---
-name=mk_nankai11000_Mc11101_post
+name=mk_nankai11000_M11101_post
 obj=vehicle
 length=12
 emptyimage[s]=nankai11000.3.0
@@ -181,7 +181,7 @@ intro_month=8
 runningcost=124
 cost=13000000
 gear=135
-constraint[prev][0]=mk_nankai11000_Mc11301_post
+constraint[prev][0]=mk_nankai11000_M11301_post
 constraint[next][0]=mk_nankai11000_Mc11201_post
 ---
 name=mk_nankai11000_Mc11201_post
@@ -208,5 +208,5 @@ intro_month=8
 runningcost=125
 cost=13600000
 gear=135
-constraint[prev][0]=mk_nankai11000_Mc11101_post
+constraint[prev][0]=mk_nankai11000_M11101_post
 ---
