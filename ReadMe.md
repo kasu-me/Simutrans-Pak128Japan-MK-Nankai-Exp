@@ -6,7 +6,11 @@
 
 
 ## 動作確認環境
-Simutrans 122.0およびOTRP v28.3のPAK128.Japanにて正常に動作することを確認しております。
+Simutrans 122.0およびOTRP v55.7のPAK128.Japanにて正常に動作することを確認しております。
+
+[OTRPv41以降で追加された編成反転機能](https://github.com/teamhimeh/simutrans/wiki/%E7%B7%A8%E6%88%90%E5%8F%8D%E8%BB%A2%E6%A9%9F%E8%83%BD-%E9%80%A3%E7%B5%90%E8%A6%AA%E5%AD%90%E9%96%A2%E4%BF%82%E5%8F%8D%E8%BB%A2%E6%A9%9F%E8%83%BD-reverse-convoy---reverse-convoy-coupling)に対応しています。編成反転の動作はOTRP v55.7にて動作確認済です。
+
+[OTRPv55.3以降で追加された編成テンプレート機能](https://github.com/teamhimeh/simutrans/wiki/%5Bv55.3%E2%80%90%5D-%E7%B7%A8%E6%88%90%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)に対応したテンプレートファイルを「convoy_template」フォルダに格納しています。日本語化が必要な方は「text」フォルダ内の「ja.mk_seibu_convoy_template.tab」をご利用ください。
 
 
 ## 内容物
